@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @federicodalai
-- 👀 I’m interested in dgital watermarking
+- 👀 I’m interested in digital watermarking
 - 🌱 I’m currently learning: sincerely: pseudocode
 
 
