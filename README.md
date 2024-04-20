@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @federicodalai
 - 👀 I’m interested in dgital watermarking
-- 🌱 I’m currently learning: sicerely: pseudocode
+- 🌱 I’m currently learning: sincerely: pseudocode
 
 
 <!---
